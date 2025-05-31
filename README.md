@@ -1,4 +1,4 @@
-# Full Documentation: How to Make Your Fiverr Gig Go Viral Using Global Marketing Strategies
+# Full Documentation
 
 ---
 
