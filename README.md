@@ -1,7 +1,4 @@
 # Full Documentation
-  
----
-
 ## 🧠 Objective
 
 Create a comprehensive marketing system to make your Fiverr gig go viral using:
